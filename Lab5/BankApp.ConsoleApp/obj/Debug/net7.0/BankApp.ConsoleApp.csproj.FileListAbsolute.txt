@@ -1,0 +1,13 @@
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\bin\Debug\net7.0\BankApp.ConsoleApp.deps.json
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\bin\Debug\net7.0\BankApp.ConsoleApp.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\bin\Debug\net7.0\BankApp.ConsoleApp.pdb
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\BankApp.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\BankApp.ConsoleApp.AssemblyInfoInputs.cache
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\BankApp.ConsoleApp.AssemblyInfo.cs
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\BankApp.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\BankApp.ConsoleApp.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\refint\BankApp.ConsoleApp.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\BankApp.ConsoleApp.pdb
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\ref\BankApp.ConsoleApp.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\bin\Debug\net7.0\BankApp.ConsoleApp.xml
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ConsoleApp\obj\Debug\net7.0\BankApp.ConsoleApp.xml
