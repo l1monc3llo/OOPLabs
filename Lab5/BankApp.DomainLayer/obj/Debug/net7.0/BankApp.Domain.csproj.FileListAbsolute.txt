@@ -1,0 +1,13 @@
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\BankApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\BankApp.Domain.AssemblyInfoInputs.cache
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\BankApp.Domain.AssemblyInfo.cs
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\BankApp.Domain.csproj.CoreCompileInputs.cache
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\bin\Debug\net7.0\BankApp.Domain.deps.json
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\bin\Debug\net7.0\BankApp.Domain.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\bin\Debug\net7.0\BankApp.Domain.pdb
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\bin\Debug\net7.0\BankApp.Domain.xml
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\BankApp.Domain.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\refint\BankApp.Domain.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\BankApp.Domain.xml
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\BankApp.Domain.pdb
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.Domain\obj\Debug\net7.0\ref\BankApp.Domain.dll

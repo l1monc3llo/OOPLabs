@@ -1,0 +1,13 @@
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\BankApp.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\BankApp.ApplicationServices.AssemblyInfoInputs.cache
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\BankApp.ApplicationServices.AssemblyInfo.cs
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\BankApp.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\bin\Debug\net7.0\BankApp.ApplicationServices.deps.json
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\bin\Debug\net7.0\BankApp.ApplicationServices.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\bin\Debug\net7.0\BankApp.ApplicationServices.pdb
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\bin\Debug\net7.0\BankApp.ApplicationServices.xml
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\BankApp.ApplicationServices.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\refint\BankApp.ApplicationServices.dll
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\BankApp.ApplicationServices.xml
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\BankApp.ApplicationServices.pdb
+D:\RiderProjects\ZimmerXen72\src\Lab5\BankApp.ApplicationServices\obj\Debug\net7.0\ref\BankApp.ApplicationServices.dll
