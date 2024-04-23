@@ -1,0 +1,13 @@
+D:\RiderProjects\ZimmerXen72\src\Lab3\bin\Debug\net7.0\Lab3.deps.json
+D:\RiderProjects\ZimmerXen72\src\Lab3\bin\Debug\net7.0\Lab3.dll
+D:\RiderProjects\ZimmerXen72\src\Lab3\bin\Debug\net7.0\Lab3.pdb
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfoInputs.cache
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfo.cs
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\Lab3.csproj.CoreCompileInputs.cache
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\Lab3.dll
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\refint\Lab3.dll
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\Lab3.pdb
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\ref\Lab3.dll
+D:\RiderProjects\ZimmerXen72\src\Lab3\bin\Debug\net7.0\Lab3.xml
+D:\RiderProjects\ZimmerXen72\src\Lab3\obj\Debug\net7.0\Lab3.xml
