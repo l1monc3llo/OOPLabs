@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>Itmo.ObjectOrientedProgramming.Lab1</RootNamespace>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Environments\Entities\EnvironmentTypes\**" />
+      <Compile Remove="Environments\Models\EnvironmentCharcteristic.cs" />
+      <Compile Remove="Environments\Exceptions\**" />
+      <Compile Remove="Environments\Entities\HighDensityNebula\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Environments\Entities\EnvironmentTypes\**" />
+      <EmbeddedResource Remove="Environments\Exceptions\**" />
+      <EmbeddedResource Remove="Environments\Entities\HighDensityNebula\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Environments\Entities\EnvironmentTypes\**" />
+      <None Remove="Environments\Exceptions\**" />
+      <None Remove="Environments\Entities\HighDensityNebula\**" />
+    </ItemGroup>
+
+
+</Project>
